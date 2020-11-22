@@ -1,3 +1,9 @@
-# Docker
- Gilles Charles charles.gilles.etu@univ-lille.fr
- Dicko Seydou Salia seydousalia.dicko.etu@univ-lille.fr
+# ARI (Applications réparties et infrastructures)
+## TP
+Docker 
+## Description
+Conception d'un cours sur docker
+## Auteurs
+- Dicko Seydou Salia
+- Gilles Charles 
+
